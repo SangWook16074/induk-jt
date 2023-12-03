@@ -1,0 +1,43 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ios",
+            "request": "launch",
+            "program": "lib/main.dart",
+            "deviceId": "95667AD1-CD3B-45C1-8BA5-DD39889ED381",
+            "type": "dart"
+        },
+        {
+            "name": "Android",
+            "request": "launch",
+            "program": "lib/main.dart",
+            "deviceId": "emulator-5554",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_main_page (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_main_page (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ],
+    "compounds": [
+        {
+            "name": "All Device",
+            "configurations": [
+                "ios",
+                "Android"
+            ]
+        }
+    ]
+}

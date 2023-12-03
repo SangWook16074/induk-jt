@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "104119207444",
+    "project_id": "induk-community",
+    "storage_bucket": "induk-community.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104119207444:android:42a8de45c072f0cafa0901",
+        "android_client_info": {
+          "package_name": "com.algoitzm.indukjt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104119207444-bqpdhr5qkm1gcdopjv28hha0jrc1o1s0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.algoitzm.indukjt",
+            "certificate_hash": "f99f5f858249962111a223bb031f53c93e559985"
+          }
+        },
+        {
+          "client_id": "104119207444-mnd3b8tf87odiolkio3ninqtih4q2o83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbItQoakO0cA3l4-4YYIczXaiwYfLSzxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104119207444-mnd3b8tf87odiolkio3ninqtih4q2o83.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "104119207444-bjm3g1cgq4bslnqnvathicb0hsvmr19h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.algoitzm.indukjt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
